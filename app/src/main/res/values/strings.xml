@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">test_500px_api</string>
+
+    <!-- Confings -->
+    <string name="api_500px_consumer_key">wB4ozJxTijCwNuggJvPGtBGCRqaZVcF6jsrzUadF</string>
+    <string name="api_url">https://api.500px.com/v1/</string>
+
+    <!-- Activities -->
+    <!-- ViewActivity -->
+    <string name="photo">Photo</string>
+    <string name="share">Share</string>
+</resources>
